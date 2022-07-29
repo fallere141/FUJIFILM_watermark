@@ -1,5 +1,7 @@
 # Add FUJIFILM watermark to your photograph
 
+[中文文档](readme_CN.md)
+
 ## Build tips
 1. in order to make binary by pyinstaller, you may need a lower version opencv. This project are using opencv-python==4.5.1.48
 2. you can use the ico you like.
